@@ -1,0 +1,14 @@
+D:\Cursos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+D:\Cursos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+D:\Cursos\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\refint\Phoneword.dll
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+D:\Cursos\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\ref\Phoneword.dll
